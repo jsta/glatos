@@ -1,3 +1,5 @@
+**The latest official version of this package lives at: https://github.com/ocean-tracking-network/glatos**
+
 glatos: An R package for the Great Lakes Acoustic Telemetry Observation System
 ------------------------------------------------------------------------------
 
